@@ -133,6 +133,86 @@ https://www.analyticsvidhya.com/blog/2019/02/outlier-detection-python-pyod/?utm_
 
 ---
 
+# Visualization
+
+
+### Data visualization for beginners
+* Part 1: https://www.hackerearth.com/blog/developers/data-visualization-techniques/
+* Part 2: https://www.hackerearth.com/blog/developers/data-visualization-for-beginners-part-2/
+* Part 3: https://www.hackerearth.com/blog/developers/data-visualization-for-beginners-part-3/
+
+
+### Interactive data visualization libs
+* https://towardsdatascience.com/interactive-data-visualization-167ae26016e8
+
+
+### visualdl lib: A platform to visualize the deep learning process and result 
+* http://visualdl.paddlepaddle.org/documentation/visualdl/en/develop/getting_started/introduction_en.html
+* https://github.com/PaddlePaddle/VisualDL
+* http://visualdl.paddlepaddle.org
+* An example of how to use VisualDL with PyTorch: https://nbro.github.io/blogging/2019/01/06/an-example-of-how-to-use-visualdl-with-pytorch/
+
+
+### A visual introduction to machine learning
+* Part 1: A Decision Tree: http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
+* Part 2: Bias and Variance: http://www.r2d3.us/visual-intro-to-machine-learning-part-2/
+
+
+* Explained Visually: http://setosa.io/ev/
+    * Explained Visually (EV) is an experiment in making hard ideas intuitive inspired the work of Bret Victor's Explorable Explanations. Sign up to hear about the latest.
+    * Topics
+        * [Ordinary Least Squares Regression](http://setosa.io/ev/ordinary-least-squares-regression/)
+        * [Principal Component Analysis](http://setosa.io/ev/principal-component-analysis/)
+        * [Image Kernels](http://setosa.io/ev/image-kernels/)
+        * [Eigenvectors and Eigenvalues](http://setosa.io/ev/eigenvectors-and-eigenvalues/)
+        * [Pi (π)](http://setosa.io/ev/pi/)
+        * [Sine and Cosine](http://setosa.io/ev/sine-and-cosine/)
+        * [Exponentiation](http://setosa.io/ev/exponentiation/)
+        * [Markov Chains](http://setosa.io/ev/markov-chains/)
+        * [Conditional probability](http://setosa.io/ev/conditional-probability/)
+        
+
+* Setosa: http://setosa.io/#/
+* Visualise any Math equation: 
+    * https://www.desmos.com/calculator
+    * http://fooplot.com/#W3sidHlwZSI6
+    
+
+* ConvNetJS: https://cs.stanford.edu/people/karpathy/convnetjs/index.html
+    * Deep Learning in your browser
+    * ConvNetJS is a Javascript library for training Deep Learning models (Neural Networks) entirely in your browser. Open a tab and you're training. No software requirements, no compilers, no installations, no GPUs, no sweat.
+    
+
+* Four Experiments in Handwriting with a Neural Network: https://distill.pub/2016/handwriting/
+* Google Magenta: https://magenta.tensorflow.org/demos
+    * A primary goal of the Magenta project is to demonstrate that machine learning can be used to enable and enhance the creative potential of all people.
+    * The demos and apps listed on this page illustrate the work of many people--both inside and outside of Google--to build fun toys, creative applications, research notebooks, and professional-grade tools that will benefit a wide range of users.
+* AI Experiments (experiments.withgoogle): https://experiments.withgoogle.com/collection/ai
+    * AI Experiments is a showcase for simple experiments that make it easier for anyone to start exploring machine learning, through pictures, drawings, language, music, and more.
+    
+
+* Top-10-deep-learning-experiences-run-on-your-browser: https://www.dlology.com/blog/top-10-deep-learning-experiences-run-on-your-browser/
+
+
+* A Neural Network Playground - TensorFlow: https://playground.tensorflow.org
+* DL Demos: http://deeplearning.net/demos/
+
+
+* CNN training Visual Demo: https://teachablemachine.withgoogle.com/
+* GAN training visual demo: https://poloclub.github.io/ganlab/
+
+
+* Visualization in Deep Learning: https://medium.com/multiple-views-visualization-research-explained/visualization-in-deep-learning-b29f0ec4f136
+
+
+* Machine Learning for Visualization https://medium.com/@enjalot/machine-learning-for-visualization-927a9dff1cab
+* Data-Driven Documents:  https://d3js.org
+* Visualizing K-Means Clustering https://www.naftaliharris.com/blog/visualizing-k-means-clustering/
+
+
+
+---
+
 # Data Science Algos
 
 ### 11 Important Model Evaluation Metrics for Machine Learning Everyone should know
@@ -303,6 +383,10 @@ https://github.com/terryum/awesome-deep-learning-papers
 
 ### 10 Companies Using Machine Learning in Cool Ways
 https://www.wordstream.com/blog/ws/2017/07/28/machine-learning-applications
+
+### 8 Inspirational Applications of Deep Learning
+https://machinelearningmastery.com/inspirational-applications-deep-learning/
+
 
 ---
 
