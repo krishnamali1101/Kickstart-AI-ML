@@ -313,11 +313,15 @@ https://www.analyticsvidhya.com/blog/2019/09/demystifying-bert-groundbreaking-nl
 
 ---
 
-# speech recognition
+# Speech Recognition
 
 ### WER are we
 * WER are we? An attempt at tracking states of the art(s) and recent results on speech recognition. Feel free to correct! (Inspired by Are we there yet?)
 * https://github.com/syhw/wer_are_we
+
+### SpeechRecognition Lib
+* Tutorial: https://realpython.com/python-speech-recognition/
+* Code: https://github.com/realpython/python-speech-recognition
 
 ---
 
