@@ -320,7 +320,9 @@ https://www.analyticsvidhya.com/blog/2019/09/demystifying-bert-groundbreaking-nl
 * https://github.com/syhw/wer_are_we
 
 ### SpeechRecognition Lib
-* Tutorial: https://realpython.com/python-speech-recognition/
+* Tutorial: 
+    * https://realpython.com/python-speech-recognition/
+    * https://towardsdatascience.com/how-to-build-a-speech-recognition-bot-with-python-81d0fe3cea9a
 * Code: https://github.com/realpython/python-speech-recognition
 
 ---
